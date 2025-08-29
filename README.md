@@ -14,9 +14,6 @@ Backend-focused software engineer, exploring distributed systems, DevOps, and ga
 
 ---
 
-## 📍 Location
--  Based in Istanbul, Turkey  
-
 ## 🎓 Education
 - M.S. Information Technologies, Sabancı University  
 - MBA, Business Administration, Istanbul University
