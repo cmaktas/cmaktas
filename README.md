@@ -1,5 +1,3 @@
-# Cem Aktaş
-
 Backend-focused software engineer, exploring distributed systems, DevOps, and game development.
 
 ---
