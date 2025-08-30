@@ -23,6 +23,5 @@ Backend-focused software engineer, exploring distributed systems, DevOps, and ga
 ## 📫 Connect
 - ✉️ [cemaktas@ymail.com](mailto:cemaktas@ymail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cem-aktas/)  
-- 🐙 [GitHub](https://github.com/cmaktas)  
 
 ---
