@@ -10,7 +10,7 @@ Backend-focused software engineer, exploring distributed systems, DevOps, and ga
 - **Databases**: PostgreSQL 🐘 · MongoDB · Redis · Oracle DB  
 - **Cloud/DevOps**: AWS (S3, Lambda, Cognito, SNS) · Docker · Jenkins · HashiCorp Vault  
 - **Monitoring**: Grafana · Prometheus · Loki/Promtail  
-- **Testing**: JUnit · Mockito · Cypress  
+- **Testing**: JUnit · Mockito · Cypress · k6  
 
 ---
 
